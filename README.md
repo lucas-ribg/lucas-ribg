@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @lucas-ribg
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently studing Computer Engineering
+- 📫 How to reach me:
+  - lucas123.r.g@gmail.com
+  - (11)9400-66543
