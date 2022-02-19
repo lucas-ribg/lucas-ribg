@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lucas-ribg
-- 👀 I’m interested in Software development and data science
+- 👀 I’m interested in Software development
 - 🌱 I’m currently studing Computer Engineering
 - 📫 How to reach me:
   - lucas123.r.g@gmail.com
