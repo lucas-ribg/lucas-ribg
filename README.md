@@ -5,4 +5,4 @@
   - lucas123.r.g@gmail.com
   - (11)9400-66543
 
-VISIT MY TCC REPOSITORY: https://github.com/VINCIA-GROUP
+VISIT MY COURSE FINAL WORK (TCC) REPOSITORY: https://github.com/VINCIA-GROUP
